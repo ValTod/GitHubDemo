@@ -1,0 +1,13 @@
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.exe
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.deps.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\bin\Debug\netcoreapp3.1\P05_SortNumbers.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.genruntimeconfig.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P05_SortNumbers\obj\Debug\netcoreapp3.1\P05_SortNumbers.csprojAssemblyReference.cache

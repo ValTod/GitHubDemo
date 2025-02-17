@@ -1,0 +1,12 @@
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.AssemblyInfoInputs.cache
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.AssemblyInfo.cs
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.exe
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.deps.json
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.runtimeconfig.json
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.runtimeconfig.dev.json
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.dll
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\bin\Debug\netcoreapp3.1\P99_HomeWorks.pdb
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.dll
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.pdb
+C:\Users\ValTod\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P99_HomeWorks\obj\Debug\netcoreapp3.1\P99_HomeWorks.genruntimeconfig.cache

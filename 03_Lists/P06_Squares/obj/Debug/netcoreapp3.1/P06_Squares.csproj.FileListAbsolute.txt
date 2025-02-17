@@ -1,0 +1,13 @@
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.exe
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.deps.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\bin\Debug\netcoreapp3.1\P06_Squares.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.csprojAssemblyReference.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P06_Squares\obj\Debug\netcoreapp3.1\P06_Squares.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.exe
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.deps.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\bin\Debug\netcoreapp3.1\P01_.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.csprojAssemblyReference.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\10_клас\01_Информатика\MyRepos\03_Lists\03_Lists\P01\obj\Debug\netcoreapp3.1\P01_.genruntimeconfig.cache
